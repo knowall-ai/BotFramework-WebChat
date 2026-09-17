@@ -4,6 +4,8 @@
   </a>
 </p>
 
+[![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/knowall-ai/BotFramework-WebChat?label=CodeRabbit+Reviews&labelColor=171717&color=FF570A)](https://coderabbit.ai)
+
 <p align="center">A highly-customizable web-based client for Azure Bot Services.</p>
 
 <p align="center">
